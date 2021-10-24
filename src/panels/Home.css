@@ -1,0 +1,22 @@
+.team_name{
+  display: inline;
+  color:var(--button_secondary_destructive_foreground)
+}
+
+.card_men{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 21em;
+}
+
+/* .tech_card{
+  display: 'flex';
+  flex-wrap: 'wrap';
+  justify-content: 'space-around';
+  align-items:'center';
+  margin: 5px;
+  overflow: 'hidden';
+  width: '30vw'
+} */
